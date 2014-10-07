@@ -11,3 +11,12 @@
         (let ((next-to-last-digit (remainder rest-of-number 10)))
           (and (< next-to-last-digit last-digit)(digits-in-increasing-order?
                                                  rest-of-number))))))
+
+;; certification or prove
+
+
+
+
+
+
+
